@@ -11,7 +11,7 @@ int main(){
     }
     puts("vetor completo:");
     for(p=vetor;(p-vetor)<TAM;p++){
-        printf("%d\n",*p);
+        printf("%d\t",*p);
     }
     int *endereço,valor;
     for(p=vetor;(p-vetor)<TAM;p++){
