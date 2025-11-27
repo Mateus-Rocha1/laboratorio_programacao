@@ -20,7 +20,7 @@ int main(){
         }
     }
     int *contador;
-    contador = m;
+    contador = (int *)m;
     for(int i=0;i<N;i++){
         for(int j=0;j<N;j++){
             for(int c=0;c<TAM;c++){
@@ -45,6 +45,5 @@ int main(){
         }
         puts("\n");
     }
-    
     return 0;
 }
