@@ -10,6 +10,3 @@ int main(){
     printf("a soma de x e y é %d  [%p]",*pz,pz);
     return 0;
 }
-//tem q declarar a variavel antes,usar o bglh do =&
-//nao precisa do * no scanf
-//pra mostrar valor *pz pra mostar endereço pz

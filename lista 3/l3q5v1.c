@@ -31,6 +31,3 @@ int main(){
 
     return 0;
 }
-//logica da junção de strings sem usar +
-//lebrar na hora de usar o str no for como limite,colocar o indice da posição da string
-//trocar o \n q pode surigir do fgets por \0 usando laço de repetição

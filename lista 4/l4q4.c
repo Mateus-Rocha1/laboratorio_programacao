@@ -14,5 +14,3 @@ int main(){
     }
     return 0;
 }
-//*p=vetor pra criar o ponteiro do vetor
-//p+i é o endereço do veotr 0 dando saltos do indice i

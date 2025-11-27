@@ -24,4 +24,3 @@ int main(){
     printf("o endereço do primeiro termo par(%d) desse vetor é [%p]\n",valor,endereço);
     return 0;
 }
-//passar o endereço pra variavel so cirar um ponteiro e atribuir os dois sem nada

@@ -19,4 +19,3 @@ int main(){
     }
     return 0;
 }
-//p-str pra mostrar a posição do vetor    

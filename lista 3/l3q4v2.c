@@ -14,4 +14,3 @@ int main(){
     }
     return 0;
 }
-//fução strncmp tem q colocar o TAM no final e ela compara as strings,se for igual retorna 0

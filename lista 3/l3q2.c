@@ -20,6 +20,3 @@ int main() {
     }
     return 0;
 }
-//fgets(oq vai ler[str],tamanho da string,tipo de entrada[stdin pro tecaldo])
-// \0 é o fim da string
-//criar uma flag pra usar dps no if else

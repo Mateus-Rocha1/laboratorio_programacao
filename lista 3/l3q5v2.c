@@ -24,4 +24,3 @@ int main(){
     printf("a junção dessas duas strings é %s",str1);
     return 0;
 }
-//strcat concatenea a seggund ana primeira string e a primeira string passa a ser a junção das duas

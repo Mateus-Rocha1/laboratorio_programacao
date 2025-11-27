@@ -20,5 +20,3 @@ int main(){
     }
     return 0;
 }
-//usar uma flag pra armazenar o resultado
-//comparar termo a termo da string por meio do laço for

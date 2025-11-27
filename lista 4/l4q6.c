@@ -15,4 +15,3 @@ int main(){
     printf("a string copiada é %s",str2);
     return 0;
 }
-//atribuir um ponteiro ao vetor/string e manipular isso no laço

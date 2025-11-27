@@ -24,6 +24,3 @@ int main(){
     printf("a string invertida fica %s\n",str);
     return 0;
 }
-//fazer um laço sem nada{} pra contar quantos caracteres tem a string decrementar[i--] pra tirar a quebra de linha
-//laço pra inverter a string = pegar a segunda string,enqt uma sobre outra desce o indice
-//nao inicializar varias variaveis locais

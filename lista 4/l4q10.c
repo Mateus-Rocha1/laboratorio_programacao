@@ -28,4 +28,3 @@ int main(){
     }
     return 0;
 }
-//criar um vetor contador e usar o vetor um de indice pro segundo na ghora de fazer o incremento e as contagens
