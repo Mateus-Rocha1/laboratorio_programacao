@@ -4,9 +4,8 @@
 #define TAM 4
 int main(){
    srand(time(NULL));
-   int matriz[TAM][TAM];
    int *p,soma =0;
-   p = (int *)(matriz);
+   p = malloc(TAM*TAM*sizeof(int));
    for(int i =0;i<TAM;i++){
        for(int j=0;j<TAM;j++){
            *(p+(TAM*i +j)) = rand() % 10;

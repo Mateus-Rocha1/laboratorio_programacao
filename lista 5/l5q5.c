@@ -34,7 +34,7 @@ int main(){
     }
     int *contador = malloc(sizeof(int) * tamanho);
     for(int i=0;i<tamanho;i++){
-        contador[i] = 1;
+        *(contador+i) = 1;
     }
 
     int moda = *p;
